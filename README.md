@@ -1,46 +1,45 @@
-# Getting Started with Create React App and Redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# IT-books re-store
 
-## Available Scripts
+[Start search your next IT-book](https://restore-b16f0.web.app/)
 
-In the project directory, you can run:
+The app can search for IT-related books to add them to your shopping cart. The cart calculates the total cost as well as the ability to increase, decrease and delete books.
 
-### `npm start`
+>_the store has no style so you can take it for a template and create your own individual style_
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Screenshot
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="1290" alt="image" src="https://user-images.githubusercontent.com/113831614/217343194-66d683ef-4bc3-44c7-b6d9-86e0debac94f.png">
 
-### `npm test`
+<img width="1290" alt="image" src="https://user-images.githubusercontent.com/113831614/217343314-9f6cf5e7-640b-40a7-876d-c430021fcf03.png">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+# Features
+- Query the topic to the API and rendering per page 
+- Adding a books to the shopping cart with a unique id
+- Working with decimal digits
+- Price and book counter 
+- Routing page
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# References
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [React](https://ru.reactjs.org)
+- [Redux Toolkit](https://redux-toolkit.js.org)
 
-### `npm run eject`
+---
+**How to make it work?**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Install the dependencies:
+```shell
+npm install
+```
+Running a web server:
+```shell
+npm start 
+```
+Build app on Vue:
+```shell
+npm run build 
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
