@@ -26,6 +26,7 @@ The app can search for IT-related books to add them to your shopping cart. The c
 
 - [React](https://ru.reactjs.org)
 - [Redux Toolkit](https://redux-toolkit.js.org)
+- [IT Bookstore API](https://api.itbook.store)
 
 ---
 **How to make it work?**
