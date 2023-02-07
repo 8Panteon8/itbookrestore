@@ -9,7 +9,7 @@ The app can search for IT-related books to add them to your shopping cart. The c
 
 ## Screenshot
 
-<img width="1290" alt="image" src="https://user-images.githubusercontent.com/113831614/217343194-66d683ef-4bc3-44c7-b6d9-86e0debac94f.png">
+<img width="1290" alt="image" src="https://user-images.githubusercontent.com/113831614/217347689-eb520a96-99aa-4d7c-97de-da33ed4576df.png">
 
 <img width="1290" alt="image" src="https://user-images.githubusercontent.com/113831614/217343314-9f6cf5e7-640b-40a7-876d-c430021fcf03.png">
 
