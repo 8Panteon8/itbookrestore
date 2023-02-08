@@ -7,12 +7,6 @@ The app can search for IT-related books to add them to your shopping cart. The c
 
 >_the store has no style so you can take it for a template and create your own individual style_
 
-## Screenshot
-
-<img width="1290" alt="image" src="https://user-images.githubusercontent.com/113831614/217347689-eb520a96-99aa-4d7c-97de-da33ed4576df.png">
-
-<img width="1290" alt="image" src="https://user-images.githubusercontent.com/113831614/217343314-9f6cf5e7-640b-40a7-876d-c430021fcf03.png">
-
 
 # Features
 - Query the topic to the API and rendering per page 
@@ -27,6 +21,12 @@ The app can search for IT-related books to add them to your shopping cart. The c
 - [React](https://ru.reactjs.org)
 - [Redux Toolkit](https://redux-toolkit.js.org)
 - [IT Bookstore API](https://api.itbook.store)
+
+## Screenshot
+
+<img width="1290" alt="image" src="https://user-images.githubusercontent.com/113831614/217347689-eb520a96-99aa-4d7c-97de-da33ed4576df.png">
+
+<img width="1290" alt="image" src="https://user-images.githubusercontent.com/113831614/217343314-9f6cf5e7-640b-40a7-876d-c430021fcf03.png">
 
 ---
 **How to make it work?**
